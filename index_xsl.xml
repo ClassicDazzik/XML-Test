@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<movielist>
+    <movie>
+        <name>Christine</name>
+        <director>John Carpenter</director>
+        <date>9/12/1983</date>
+        <runtime>1h 40m</runtime>
+        <budget>$10 million</budget>
+    </movie>
+    <movie>
+        <name>The Fast and the Furious</name>
+        <director>Rob Cohen</director>
+        <date>22/6/2001</date>
+        <runtime>1h 36m</runtime>
+        <budget>$38 million</budget>
+    </movie>
+</movielist>

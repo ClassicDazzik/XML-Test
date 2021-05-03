@@ -1,0 +1,14 @@
+movie, name, director, date, runtime, budget {
+    display: block;
+}
+
+movie {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+name {
+    margin-bottom: 5px;
+    font: 20px bold;
+}
